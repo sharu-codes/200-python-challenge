@@ -1,24 +1,8 @@
-# 200-days-of-python-challenge
+# 200-python-challenge
 solving 200 python problems step by step
 
 
 > Solving 200 Beginner Level Python Questions 
-
-**Started:** 04-06-2026  
-**Current Streak:** 🔥 1 day  
-**Total Completed:** 1/200
-
----
-
-## 📊 Progress Tracker
-
-| Day | Problem | Topic | Difficulty | Status | Date |
-|-----|---------|-------|------------|--------|------|
-| 001 | Even or Odd Number Checker | Numbers, Conditionals | Easy | ✅ | 04-06-2026 |
-| 002 | - | - | - | ⏳ | - |
-| 003 | - | - | - | ⏳ | - |
-| 004 | - | - | - | ⏳ | - |
-| 005 | - | - | - | ⏳ | - |
 
 ---
 
@@ -28,9 +12,9 @@ solving 200 python problems step by step
 150-days-python-challenge/
 ├── README.md                 ← Progress tracker (this file)
 ├── solutions/
-│   ├── day_001.py           ← Solution code + notes
-│   ├── day_002.py
-│   └── ... (up to day_200.py)
+│   ├── p001.py           ← Solution code + notes
+│   ├── p002.py
+│   └── ... (up to p200.py)
 
 ```
 
@@ -38,7 +22,7 @@ solving 200 python problems step by step
 
 ## ✨ How to Use This Repo
 
-1. **View Solutions:** Click any `day_XXX.py` file to see the code with detailed comments
+1. **View Solutions:** Click any `pXXX.py` file to see the code with detailed comments
 2. **Understand Concepts:** Each solution includes:
    - Problem statement
    - Step-by-step explanation
@@ -47,7 +31,7 @@ solving 200 python problems step by step
 3. **Run Locally:** 
    ```bash
    cd solutions
-   python day_001.py
+   python p001.py
    ```
 
 ---
