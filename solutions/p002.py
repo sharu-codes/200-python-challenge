@@ -8,11 +8,9 @@ If n is even and greater than 20, print not weird.
 """
 
 # Step 1: Take a number as input from the user
-
 num = int(input("enter a number: "))
 
 # Step 2: Check the conditions and print the result
-
 if num%2!=0:
     print("weird!")
 elif num%2 == 0:
