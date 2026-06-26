@@ -14,7 +14,7 @@ def sum_of_digits(n):
         # Add the last digit to the sum variable
         sum += rem
         # Remove the last digit from the original number
-        n //= 10
+        n //= 10 
     return sum
 
 # Step 2: Get the number from the user
