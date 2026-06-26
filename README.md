@@ -6,7 +6,7 @@ solving 200 python problems step by step
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 150-days-python-challenge/
@@ -20,7 +20,7 @@ solving 200 python problems step by step
 
 ---
 
-## ✨ How to Use This Repo
+## How to Use This Repo
 
 1. **View Solutions:** Click any `pXXX.py` file to see the code with detailed comments
 2. **Understand Concepts:** Each solution includes:
@@ -36,7 +36,7 @@ solving 200 python problems step by step
 
 ---
 
-## 📚 Learning Path
+## Learning Path
 
 - **CS50 Python Course** (Video Learning)
 - **Daily Problem Solving** (Hands-on Practice)
@@ -46,7 +46,7 @@ solving 200 python problems step by step
 ---
 
 
-## 📖 Resources Used
+## Resources Used
 
 - **CS50 Python Course** - Harvard's Introduction to Computer Science
 - **Python Official Docs** - https://docs.python.org/3/
@@ -55,20 +55,10 @@ solving 200 python problems step by step
 
 ---
 
-## 🎓 Goals
+## Goals
 
 - [ ] Complete all 200 problems
 - [ ] Master DSA fundamentals
 - [ ] Build ML project portfolio
 - [ ] Secure placement with strong coding interview skills
 - [ ] Create a reference guide for Python learners
-
----
-
-## 📞 Contact & Feedback
-
-If you find this helpful or want to contribute:
-- Fork this repo ⭐
-- Share feedback
-- Connect on LinkedIn
-
